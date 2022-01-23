@@ -1,0 +1,32 @@
+.panda-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+
+.cart1{
+    background-color: orange;
+    padding: 5px !important;
+   
+}
+.cart-style{
+    text-decoration: none;
+    color: white;
+}
+.cart2{
+    background-color: orchid;
+}
+.cart3{
+    background-color: blue;
+}
+.categories img{
+    width: 100px;
+}
